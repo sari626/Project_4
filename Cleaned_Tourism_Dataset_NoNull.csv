@@ -1,0 +1,1 @@
+TransactionId,UserId,VisitYear,VisitMonth,VisitMode,AttractionId,Rating,VisitModeId,ContinentId,RegionId,CountryId,CityId,CityName,CountryId_UserCity,Country,RegionId_UserCountry,Region,ContinentId_UserRegion,Continent,AttractionCityId,AttractionTypeId,Attraction,AttractionAddress,AttractionType,CityId_AttractionCity,CityName_AttractionCity,CountryId_AttractionCity
